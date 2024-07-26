@@ -1,0 +1,21 @@
+dep_id,deptname,job_location,head
+1,HR,building A,Alice brown
+2,IT,Building B,Bob Smith
+3,Finance,Building C,Carol White
+4,Marketing,Building D,David Green
+5,Sales,Building E,Eve Black
+6,Operations,Building F,Frank White
+7,Legal,Building G,Grace Adams
+8,Customer Service,Building H,Hank Brown
+9,Research and Development,Building I,Ivy Green
+10,Logistics,Building J,Jack Black
+11,Procurement,Building K,Kelly White
+12,Quality Assurance,Building L,Leo Smith
+13,Public Relations,Building M,Mona Green
+14,Engineering,Building N,Nathan Black
+15,Maintenance,Building O,Olivia Brown
+16,Health and Safety,Building P,Paul White
+17,Production,Building Q,Quincy Smith
+18,Training,Building R,Rachel Green
+19,Administration,Building S,Sam Black
+20,Human Resources,Building T,Tina Brown

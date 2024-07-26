@@ -1,0 +1,78 @@
+empid,empname,jobtitle,dep_id
+224,alex,IT Support,10
+225,jiya,software developer,9
+226,meera,HR manager,14
+227,gita,IT Support,8
+228,sita,Marketing coordinator,2
+229,ram,IT manager,11
+230,lakhan,sales representative,4
+231,pooja,operations manager,19
+232,ashish,legal advisor,2
+233,ankita,research analyst,1
+234,shobha,logistics coordinator,7
+235,sunil,procurement officer,9
+236,anil,engineer,10
+237,raghav,sales representative,13
+238,dhiraj,IT consultant,5
+239,pooja,IT Support,13
+240,archana,software developer,7
+241,satwik,HR manager,11
+242,manoj,IT Support,11
+243,ashu,Marketing coordinator,12
+244,sakshi,IT manager,1
+245,prachi,sales representative,17
+246,nikku,operations manager,15
+247,pallavi,legal advisor,16
+248,sam,research analyst,20
+249,jam,logistics coordinator,12
+250,pro,procurement officer,19
+251,max,engineer,9
+252,well,sales representative,2
+253,dell,IT consultant,9
+254,nikk,IT Support,1
+255,nikhil,software developer,20
+256,rakesh,HR manager,11
+257,ritesh,IT Support,20
+258,satish,Marketing coordinator,7
+259,piyush,IT manager,16
+260,aman,sales representative,11
+261,yushar,operations manager,17
+262,tushar,legal advisor,20
+263,hemant,research analyst,14
+264,tejas,logistics coordinator,3
+265,sanskar,procurement officer,2
+266,anvesh,engineer,2
+267,sayali ,sales representative,18
+268,sachin,IT consultant,2
+269,savi,IT Support,1
+270,rajat,software developer,15
+271,virat,HR manager,11
+272,sai,IT Support,18
+273,pakhi,Marketing coordinator,17
+274,ranu,IT manager,11
+275,mishi,sales representative,14
+276,nishi,operations manager,11
+277,akshara,legal advisor,4
+278,divya,research analyst,2
+279,paru,logistics coordinator,20
+280,aditya,procurement officer,9
+281,sharda,engineer,18
+282,kalpnaa,sales representative,14
+283,asumata,IT consultant,7
+284,alka,sales representative,10
+285,shivani,operations manager,2
+286,kalyani,legal advisor,11
+287,samita,research analyst,4
+288,rohini,logistics coordinator,10
+289,monika,procurement officer,12
+290,maanya,engineer,1
+291,rishi,sales representative,13
+292,ayush,IT consultant,5
+293,yash,IT Support,12
+294,rancy,software developer,6
+295,rishon,HR manager,2
+296,akansha,IT Support,8
+297,himanshi,Marketing coordinator,11
+298,meena,IT manager,18
+299,swapnil,sales representative,12
+300,raksha,operations manager,14
